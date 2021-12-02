@@ -1,2 +1,2 @@
-# Controlled_DQN
-Improving DQN with robust control
+# Deep Q-learning with robust control
+
